@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KP3 Aula 3</title>
+    <title>LP3 Aula 3</title>
 </head>
 <body>
     <h1>LP3 Aula 3</h1>
@@ -74,7 +74,6 @@ for($i=30;$i>0;$i--){
     }
 
 ?>
-
 </body>
 </html>
 
